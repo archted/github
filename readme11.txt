@@ -1,4 +1,3 @@
-git is a version control system
-git is a 
-lal
-oj
+git is a distributed version control system
+git is a so cool
+git has a index called stage.
